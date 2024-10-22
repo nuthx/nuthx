@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there I'm Akko.
 
-<!--
-**nuthx/nuthx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm an interdisciplinary UI/UX designer, bring a creative and user-centric mindset to every project.
 
-Here are some ideas to get you started:
+🔨 Now I'm dipping my toes into the exciting world of development, learning and growing as a noob developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/nuthx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nuthx&show_icons=true&card_witdh" />
+</a>
+
+<a href="https://github.com/nuthx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuthx&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320" />
+</a>
